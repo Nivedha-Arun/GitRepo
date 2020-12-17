@@ -1,0 +1,35 @@
+.column-one
+{
+    float: left;
+    width: 50%;
+}
+
+.column-two{
+    padding-left: 12%;
+    width: 38%;
+    float: left;
+}
+
+body{
+    background-image: url(/images/bg-desktop.svg);
+    background-color: #674bb1;
+}
+
+.btn{
+        border-radius: 28px;
+        font-family: Arial;
+        color: #69589f;
+        font-size: 20px;
+        background: #ffffff;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+}
+
+.logo{
+    width: 32.3%;
+    padding: 46px 0 0 62px;
+}
+
+.illustration{
+    padding: 86px 0 0 65px;
+}
